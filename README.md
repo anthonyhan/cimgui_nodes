@@ -4,6 +4,6 @@
  You can use it together with [cimgui](https://github.com/cimgui/cimgui)
 
 
-ImGuiNodes is a submodule of this repo. To do generation again in case ImGuiNodes is changed, you should update ImGuiNodes, make sure that cimgui repository is a sibling folder to this repository folder and execute generator/generator.bat(.sh)
+ImGuiNodes is a submodule of this repo. To do generation again in case ImGuiNodes is changed, you should update ImGuiNodes, make sure that **cimgui repository is a sibling folder to this repository folder** and execute generator/generator.bat(.sh)
 
 The generator script is based on [cimgui](https://github.com/cimgui/cimgui) and its related projects. [Learn more](https://github.com/cimgui/cimgui)
